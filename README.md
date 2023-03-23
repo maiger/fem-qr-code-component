@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/maiger/fem-qr-code-component)
-- Live Site URL: [Add live site URL here](https://maiger.github.io/fem-qr-code-component/)
+- Solution URL: [Click](https://github.com/maiger/fem-qr-code-component)
+- Live Site URL: [Click](https://maiger.github.io/fem-qr-code-component/)
 
 ## My process
 
@@ -37,4 +37,4 @@ Nothing new here, but practice makes perfect.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/maiger)
+- Frontend Mentor - [@maiger](https://www.frontendmentor.io/profile/maiger)
